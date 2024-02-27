@@ -43,7 +43,7 @@ in a game.
 
 ## Documentation
     A full documentation of the project can be found int the pdf attached
-[Documentation](https://linktodocumentation)
+[Documentation](https://github.com/omarhassan97/lol-analysis-using-spark/blob/main/Technical%20Document.pdf)
 
 
 ## 🛠 Skills
