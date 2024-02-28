@@ -1,5 +1,5 @@
 
-# BigData project: Leage of legend game analysis using spark
+# BigData project: League of legend game analysis using spark
 
 ![Logo](https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2021/09/league-of-legends.jpeg?fit=1607%2C895&ssl=1)
 
